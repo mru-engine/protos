@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   validate-and-push-protos:
     runs-on: ubuntu-latest
