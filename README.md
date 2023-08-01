@@ -4,7 +4,11 @@ This repository contains protocol buffer files for Mru Engine.
 
 ## How to use?
 
-You can use this API, TODO
+You can integrate your golang project with this API, by installing this go modules:
+```shell
+$ go get buf.build/gen/go/mrucznik/mru-engine/connectrpc/go@latest
+$ go get buf.build/gen/go/mrucznik/mru-engine/bufbuild/connect-go@latest
+```
 
 ## Developing
 
