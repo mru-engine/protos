@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package mru.v1;
+
+service HelloService {
+  rpc Say(HelloRequest) returns (HelloResponse) {}
+}
+
+message HelloRequest {}
+
+message HelloResponse {}

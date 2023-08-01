@@ -1,2 +1,4 @@
 # protos
-protobuf files
+
+This repository contains protocol buffer files for Mru Engine.
+
